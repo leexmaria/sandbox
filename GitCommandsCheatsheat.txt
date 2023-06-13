@@ -1,0 +1,7 @@
+Git Commands Cheatsheet
+git clone https:// [makes a local copy of your git repo]
+git checkout -b *NAME OF BRANCH* [makes a branch]
+git status [gives you the status of your local git copy]
+git add
+git commit -m "commit message here"
+git push origin *branch name*
