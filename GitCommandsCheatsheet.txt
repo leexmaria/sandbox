@@ -5,3 +5,4 @@ git status [gives you the status of your local git copy]
 git add
 git commit -m "commit message here"
 git push origin *branch name*
+git rev-parse --abbrev-ref HEAD [print only current branch]
